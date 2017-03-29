@@ -1,2 +1,2 @@
 # local-image-selected
-a demo to select local picture
+a demo to select local picture and preview it
